@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **Coders live to code and code for others to live**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@devashwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@devashwani" height="30" width="40" /></a>
@@ -33,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwanikumar100twitter&show_icons=true&locale=en" alt="ashwanikumar100twitter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanikumar100twitter&" alt="ashwanikumar100twitter" /></p>
-
-
